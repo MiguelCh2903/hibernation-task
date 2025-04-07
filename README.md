@@ -1,6 +1,6 @@
 # Proyecto de Suspensión / Hibernación de Tareas Rutinarias
 
-Este proyecto permite suspender / hibernar el sistema para luego despertar y reanudar la ejecución de dichas tareas rutinarias.
+Este proyecto permite suspender / hibernar el sistema para luego despertar y reanudar la ejecución de tareas rutinarias.
 
 ## Requisitos
 
